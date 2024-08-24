@@ -1,0 +1,11 @@
+  =>  Template Name    : EShop - Bootstrap eCommerce Template
+
+  =>  Template Link    https://scriptandtools.com/bootstrap-ecommerce-template
+
+  =>  Template License : https://scriptandtools.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Script and Tools
+
+  =>  Author Website :scriptandtools.com
+
+  =>  About Script and Tools : Script and Tools is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at (https://scriptandtools.com/about-us )
